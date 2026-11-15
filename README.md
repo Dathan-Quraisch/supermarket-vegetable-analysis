@@ -1,3 +1,6 @@
+
+📓 View full notebook here (GitHub preview bug): https://nbviewer.org/github/Dathan-Quraisch/supermarket-vegetable-analysis/blob/main/supermarket_vegetable_analysis.ipynb
+
 # Supermarket Vegetable Sales Analysis
 
 ## Business Question
